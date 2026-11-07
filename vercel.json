@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://servicio-api-proyecto-regresion-kevin-inofuente-967741749170.us-central1.run.app/:path*"
+    }
+  ]
+}
